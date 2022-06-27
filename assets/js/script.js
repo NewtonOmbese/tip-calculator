@@ -17,3 +17,4 @@ calculateAmount.addEventListener('click', ()=>{
     console.log(amountingTotal)
     totalAmount.value = amountingTotal
 })
+
