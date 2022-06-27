@@ -33,6 +33,11 @@ div label{
     display: block;  
 }
 
+div input{
+    color: white;
+    background: #161616;
+}
+
 div button{
     margin-top: 10px;
     font-size: 20px;
